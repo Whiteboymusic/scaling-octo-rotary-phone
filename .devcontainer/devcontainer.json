@@ -1,0 +1,13 @@
+https://github.com/Whiteboymusic/Whiteboy.music.git{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }git remote add origin https://github.com/Whiteboymusic/Whiteboy.music.git
+git branch -M main
+git push -u origin main
+}echo "# Whiteboy.music" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Whiteboymusic/Whiteboy.music.git
+git push -u origin main
